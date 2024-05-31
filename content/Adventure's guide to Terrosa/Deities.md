@@ -272,19 +272,19 @@ tags:
 - The Day of the Guardian: An annual festival celebrating Arganos, marked by grand tournaments, feats of strength, and reenactments of legendary battles.
 
 **Clergy and Organization**
-	Hierarchy:
-		- High Guardian: The highest-ranking priest, responsible for leading major rituals, making doctrinal decisions, and serving as the ultimate authority in matters of faith.
-		- Battle Chaplains: Senior priests who lead smaller congregations, often accompanying armies to provide spiritual guidance and support.
-		- Shield Bearers: Lower-ranking priests responsible for daily rituals, training initiates, and maintaining temples and shrines.
-		- Initiates: New members of the clergy who are undergoing training and proving their devotion.
-	Temples and Shrines: 
+- Hierarchy:
+	-  High Guardian: The highest-ranking priest, responsible for leading major rituals, making doctrinal decisions, and serving as the ultimate authority in matters of faith.
+	- Battle Chaplains: Senior priests who lead smaller congregations, often accompanying armies to provide spiritual guidance and support.
+	- Shield Bearers: Lower-ranking priests responsible for daily rituals, training initiates, and maintaining temples and shrines.
+	- Initiates: New members of the clergy who are undergoing training and proving their devotion.
+- Temples and Shrines: 
 	Temples to Arganos are often fortified structures, resembling barracks or small fortresses, where warriors can train and seek sanctuary. Shrines are common near battlefields and in places of strategic importance.
 
 **Sacred Texts**
-	The Codex of Valor:
-		 A holy book containing the teachings of Arganos, stories of his greatest champions, and guidelines for leading a life of honor and justice. It also includes prayers, hymns, and instructions for rituals.
-		**Sample Prayers and Hymns**
-			 **Prayer Before Battle:**
+- The Codex of Valor:
+	 A holy book containing the teachings of Arganos, stories of his greatest champions, and guidelines for leading a life of honor and justice. It also includes prayers, hymns, and instructions for rituals.
+	- **Sample Prayers and Hymns**
+		- **Prayer Before Battle:**
 				 "O Arganos, Guardian of the Just,
 				 Grant me the strength to wield my sword,
 				  The courage to face my foes,
@@ -292,12 +292,12 @@ tags:
 				May your shield protect me,
 				 And your light guide my path.
 				  In your name, I fight."
-			**Hymn of the Fallen:** 
+		- **Hymn of the Fallen:** 
 				"Brave warriors, hear our song,
 				Your valor remembered long.
 				In Arganos’s arms you rest,
 				 By your sacrifice, we are blessed."
 
   
-**Role of Battle Priests**
+- **Role of Battle Priests**
 	Battle priests of Arganos serve both as spiritual leaders and formidable warriors. They lead troops in prayer, offer blessings, and fight on the front lines. Their dual role as clerics and combatants makes them essential figures in both religious and military spheres. They are often called upon to mediate disputes, lead community defense efforts, and serve as paragons of the faith’s virtues.
