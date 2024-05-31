@@ -5,8 +5,13 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Everdeep
+    - 1. Introduction
+    - Deities
+    - Thieves' guild
+    - Linhold Forest
+    - Asahi no mori Forest
     - Everdeep Tavren
+    - Everdeep
   sceneTemplate: Templates/Chapter.md
   ignoredFiles: []
 ---
