@@ -3,10 +3,6 @@ title: Deities
 draft: false
 tags:
 ---
- 
-
-# Human Pantheon
-
 ## Solara, Goddess of Light and Healing
 
 - **Domains:** Light, Life, Healing, Hope
@@ -45,17 +41,18 @@ tags:
 - **Role of Light Priests:**
     - Light priests of Solara serve as healers and spiritual guides. They lead communities in prayer, provide healing services, and offer guidance in times of trouble. Their presence is a beacon of hope and comfort, making them essential in both spiritual and practical aspects of life.
 
+
 ## Terrus, God of Earth and Agriculture
    - **Domains:** Nature, Harvest
    - **Symbol:** A sheaf of wheat intertwined with a spade
    - **Description:** Terrus is worshipped by farmers, laborers, and those who work the land. He is believed to ensure bountiful harvests and fertile soil. His festivals celebrate the changing seasons and the bounty of the earth.
+
 
 ## Zephyria, Goddess of Winds and Travel
    - **Domains:** Tempest, Knowledge
    - **Symbol:** A wind-blown leaf
    - **Description:** Zephyria is the patron of travelers, explorers, and messengers. She is invoked for safe journeys and favorable winds. Her shrines are often found along trade routes and in port cities.
 
-# Elven Pantheon
 
 ## Aeloria, Goddess of Magic and the Stars
 
@@ -109,7 +106,6 @@ tags:
    - **Symbol:** A blooming flower
    - **Description:** Lysara is the muse of artists, musicians, and poets. She inspires creativity and the pursuit of beauty in all forms. Elven society celebrates her through festivals of music, dance, and artistic expression.
 
-# Dwarven Pantheon
 
 ## Moradin, God of Craftsmanship and Creation
 
@@ -154,6 +150,7 @@ tags:
 - **Role of Forge Priests:**
     
     - Forge priests of Moradin serve as both spiritual leaders and master craftsmen. They lead the community in rituals and celebrations, provide guidance on craftsmanship, and maintain the sacred forges. Their dual role as clerics and artisans makes them essential figures in dwarven society, embodying the values of hard work, excellence, and community.
+
 
 ## Dumathoin, God of Mining and the Underground
 
@@ -200,49 +197,6 @@ tags:
     
     - Stone priests of Dumathoin serve as guardians of the earth’s secrets and caretakers of the dead. They lead communities in mining rituals, oversee burial rites, and protect the integrity of the underground. Their role as spiritual leaders and practical miners makes them essential figures in maintaining the balance between respecting and utilizing the earth’s resources.
 
-## Berronar Truesilver, Goddess of Home and Hearth
-
-- **Domains:** Life, Protection, Family, Home
-    
-- **Symbol:** Two interlocking silver rings, often depicted with a heart.
-    
-- **Appearance:** Berronar is depicted as a matronly dwarf with silver hair and kind eyes. She wears simple, elegant robes and often carries a silver lantern. Her presence is warm and comforting, embodying the spirit of home and family.
-    
-- **Tenets and Beliefs:**
-    
-    - **Sanctity of Home:** Followers believe in the importance of a safe and loving home. They strive to create and maintain harmonious households.
-    - **Loyalty and Fidelity:** Loyalty to family and friends is paramount. Berronar’s followers are taught to be trustworthy and supportive.
-    - **Care and Compassion:** Followers are encouraged to show compassion and care for those in need, especially within their own community.
-    - **Protection of Family:** The family unit is sacred, and followers are expected to protect and nurture their loved ones.
-- **Rituals and Ceremonies:**
-    
-    - **Hearth Blessing:** A ritual performed to bless a new home or renew the blessings of an existing one, ensuring peace and prosperity within the household.
-    - **Family Feasts:** Regular gatherings where families come together to share food, stories, and strengthen their bonds.
-    - **Rites of Union:** Ceremonies marking significant family events, such as marriages, births, and adoptions, with blessings for each new union.
-    - **Day of Remembrance:** An annual day of reflection and remembrance for departed family members, honoring their memories and contributions.
-- **Clergy and Organization:**
-    
-    - **Hierarchy:**
-        - **High Matron:** The highest-ranking priest, overseeing major rituals, maintaining doctrinal purity, and serving as the ultimate authority in matters of the faith.
-        - **Hearthkeepers:** Senior priests who lead congregations, offer guidance in family matters, and oversee community welfare.
-        - **Homewardens:** Lower-ranking priests responsible for daily rituals, training initiates, and maintaining temples and communal spaces.
-        - **Initiates:** New members of the clergy undergoing training and proving their devotion through service to the community.
-    - **Temples and Shrines:** Temples to Berronar are often cozy, welcoming places resembling large homes. Shrines are common in households and communal gathering places.
-- **Sacred Texts:**
-    
-    - **The Silver Scrolls:** A sacred text containing the teachings of Berronar, stories of legendary acts of care and protection, and guidelines for maintaining a harmonious home. It also includes prayers, hymns, and instructions for rituals.
-- **Sample Prayers and Hymns:**
-    
-    - **Prayer for Family:** "O Berronar, Keeper of the Hearth, Bless this home and all within, Grant us peace and loving hearts, As we begin anew again."
-        
-    - **Hymn of the Hearth:** "In the warmth of Berronar’s light, Our hearts and homes unite. Her love and care our lives surround, In her embrace, we’re safe and sound."
-        
-- **Role of Hearth Priests:**
-    
-    - Hearth priests of Berronar serve as pillars of the community, offering spiritual guidance and practical support in matters of home and family. They lead rituals to bless homes, counsel families, and ensure the well-being of their community. Their role as compassionate caregivers and protectors makes them essential figures in maintaining the fabric of dwarven society.
-
-
-# Unaligned
 
 ## Arganos, The Warrior's Guardian
 * Domains: War, Protection, Strength, Justice

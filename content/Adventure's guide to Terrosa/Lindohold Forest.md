@@ -1,5 +1,5 @@
 ---
-title: Linhold Forest
+title: Lindohold Forest
 draft: false
 tags:
 ---

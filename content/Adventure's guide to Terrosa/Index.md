@@ -8,7 +8,7 @@ longform:
     - 1. Introduction
     - Deities
     - Thieves' guild
-    - Linhold Forest
+    - Lindohold Forest
     - Asahi no mori Forest
     - Everdeep Tavren
     - Everdeep
